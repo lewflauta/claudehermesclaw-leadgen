@@ -1,7 +1,8 @@
 # claudehermesclaw-leadgen
 
 ## Architecting the Autonomous Inbound Lead Qualification Engine: A Multi-Agent Blueprint
-to be fair, ai-notebook-lm did generate this, but it is generated based off my own research as a source of truth and implementation. This is the use-case for your application question, but if I didn't build this out for you. I was going to use this underlying structure in a Jobleadmagnet sort of implementation.
+
+*to be fair, ai-notebook-lm did generate this, but it is generated based off my own research as a source of truth and implementation. This is the use-case for your application question, but if I didn't build this out for you. I was going to use this underlying structure in a Jobleadmagnet sort of implementation.*
 
 1. The Strategic Architecture of Agentic Sales Operations
 
