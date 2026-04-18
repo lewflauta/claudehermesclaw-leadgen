@@ -2,9 +2,9 @@
 
 ## Architecting the Autonomous Inbound Lead Qualification Engine: A Multi-Agent Blueprint
 
-*to be fair, ai-notebook-lm did generate this, but it is generated based off my own research as a source of truth and implementation. This is the use-case for your application question, but if I didn't build this out for you. I was going to use this underlying structure in a Jobleadmagnet sort of implementation for my own use.*
+*to be fair, ai-notebook-lm did generate this, but it is generated based off my own research as a source of truth and implementation. This is the use-case for your application question. If I didn't build this out for you. I was going to use this underlying structure in a Jobleadmagnet sort of implementation for my own use.*
 
-1. The Strategic Architecture of Agentic Sales Operations
+**1. The Strategic Architecture of Agentic Sales Operations**
 
 In the high-stakes environment of enterprise sales operations, manual lead triage is no longer just a bottleneck—it is a fiscal liability. Transitioning to an autonomous agentic stack involves a fundamental shift from simple automation to a multi-layer architecture comprising a Brain (strategic reasoning), Hands (task execution), and a Gateway (omni-channel communication). This system provides 100% qualification coverage and eliminates the "speed-to-lead" latency that typically kills conversion rates. By utilizing a sandboxed environment with robust state management and execution tracing, we can ensure that every lead is handled with the precision of a lead architect, maximizing the "math of arbitrage" by shifting from $2,000/mo SaaS subscriptions to local, open-weight models like Gemma 4 to maximize profit margins.
 
@@ -23,7 +23,7 @@ This architecture sets the stage for a production-grade environment. To power it
 --------------------------------------------------------------------------------
 
 
-2. The Research Layer: Engineering the Data Acquisition Pipeline
+**2. The Research Layer: Engineering the Data Acquisition Pipeline**
 
 Modern B2B sales are won in the trenches of deep research. Identifying "buying triggers"—the subtle signals that a prospect is ready to move—requires looking beyond basic company size. We architect this research layer using a Cron Scheduler that triggers agents to perform deep-dive analysis into real-time pain points. This involves the Tavily skill for structured, AI-native web search and TinyFish (Agent Browser) for headless browser automation, allowing our agents to navigate social profiles and job boards to extract qualitative signals that static scrapers miss.
 
@@ -41,7 +41,7 @@ Once this raw intelligence is gathered, it must be transformed into a quantifiab
 --------------------------------------------------------------------------------
 
 
-3. The Scoring Engine: Transforming Raw Intelligence into Strategic Fit
+**3. The Scoring Engine: Transforming Raw Intelligence into Strategic Fit**
 
 An AI-powered lead scoring system is the gatekeeper of human resources. By prioritizing high-value intervention, the engine ensures the sales team never wastes time on "tire-kickers." We implement a 5-category scoring framework (Fit, Intent, Engagement, Budget Signal, and Timing) to evaluate the probability of a closed-won deal. For this, we utilize Claude Sonnet 4.6 for high-speed scoring or Opus 4.6 when complex, multi-variable reasoning is required for enterprise-level leads.
 
@@ -60,7 +60,7 @@ Below 50	Cold	Move to long-term research list or low-priority drip campaign.
 --------------------------------------------------------------------------------
 
 
-4. The Outreach Forge: Personalization and Follow-Up Automation
+**4. The Outreach Forge: Personalization and Follow-Up Automation**
 
 The Hermes agent differentiates itself through its Learning Loop. Unlike static automation, Hermes uses FTS5 search for cross-session memory, allowing it to remember past objections and prospect preferences across every platform. It doesn't just send emails; it creates skills from experience, ensuring the "Outreach Forge" becomes more effective with every interaction.
 
@@ -76,9 +76,9 @@ By the time a human enters the loop, the lead has been pre-qualified through sop
 --------------------------------------------------------------------------------
 
 
-5. Implementation Roadmap: Tools, Configuration, and Deployment
+**5. Implementation Roadmap: Tools, Configuration, and Deployment**
 
-We utilize a 48-hour Installation Roadmap to deploy the full agentic stack. This phased rollout ensures that the system is properly sandboxed and that the initial learning loop is established correctly.
+Utilize a 48-hour Installation Roadmap to deploy the full agentic stack. This phased rollout ensures that the system is properly sandboxed and that the initial learning loop is established correctly.
 
 Order of Operations:
 
