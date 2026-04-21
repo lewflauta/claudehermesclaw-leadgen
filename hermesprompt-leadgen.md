@@ -1,4 +1,4 @@
-Here is a comprehensive system prompt you can use to configure Hermes for this exact workflow. It is structured to force the model to act autonomously, follow a logical chain of thought, and output structured data that you can easily parse in your pipeline.
+
 
 ***
 
@@ -54,4 +54,4 @@ You must return your final analysis as a raw JSON object strictly adhering to th
 
 ### How to use this effectively:
 * **Inject your ICP:** If you have a specific Ideal Customer Profile (e.g., "We only sell to B2B SaaS companies with 50+ employees"), add that directly into the "Fit Scoring" section of the prompt so Hermes knows exactly what to look for.
-* **Tool Calling:** If you are running Hermes in an environment where it can utilize external tools (like a SerpAPI or clearbit integration), you can explicitly add a "Available Tools" section to the prompt detailing how it should invoke those search functions before it begins Step 1.
+
